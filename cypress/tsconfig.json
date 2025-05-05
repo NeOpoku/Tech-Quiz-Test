@@ -12,6 +12,6 @@
   },
   "include": [
     "../client/src/**/*",
-    "./**/*"
+    "../cypress.config.ts/**/*"
   ]
 }

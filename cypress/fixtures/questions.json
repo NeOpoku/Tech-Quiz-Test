@@ -1,17 +1,17 @@
 [
   {
-    "question": "What's 7 + 2?",
+    "question": "What's 2 + 2?",
     "answers": [
       { "text": "3", "isCorrect": false },
-      { "text": "9", "isCorrect": true },
+      { "text": "4", "isCorrect": true },
       { "text": "5", "isCorrect": false }
     ]
   },
   {
-    "question": "What's the capital of Ghana?",
+    "question": "What's the capital of France?",
     "answers": [
       { "text": "Berlin", "isCorrect": false },
-      { "text": "Accra", "isCorrect": true },
+      { "text": "Paris", "isCorrect": true },
       { "text": "Rome", "isCorrect": false }
     ]
   }
