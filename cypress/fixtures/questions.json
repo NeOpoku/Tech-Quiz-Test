@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What's 7 + 2?",
+    "answers": [
+      { "text": "3", "isCorrect": false },
+      { "text": "9", "isCorrect": true },
+      { "text": "5", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What's the capital of Ghana?",
+    "answers": [
+      { "text": "Berlin", "isCorrect": false },
+      { "text": "Accra", "isCorrect": true },
+      { "text": "Rome", "isCorrect": false }
+    ]
+  }
+]
